@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuanvo2405&label=Profile%20views&color=0e75b6&style=flat" alt="thuanvo2405" /> </p>
 
-- 🔭 I’m currently working on [Music App](https://github.com/thuanvo2405/Clone_Spotify)
+- 🔭 I’m currently working on [Social_Media](https://github.com/thuanvo2405/Clone_Instagram)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
